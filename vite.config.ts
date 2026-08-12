@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/cbm--academy-website2/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
