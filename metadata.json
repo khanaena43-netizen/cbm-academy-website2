@@ -1,0 +1,6 @@
+{
+  "name": "CBM Academy",
+  "description": "Premier AI-Integrated Digital Marketing Academy in New Delhi offering hands-on training with AI tools, real-world projects, and career placement support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
